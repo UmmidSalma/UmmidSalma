@@ -2,5 +2,5 @@
 
 <p align="center">
   <b>AI/ML Engineer · Deep Learning Researcher · Software Engineer</b><br/>
-  <i>BE Computer Science @ KLE Technological University, Hubballi | CGPA: 8.93</i>
+  <i>BE Computer Science @ KLE Technological University, Hubballi.</i>
 </p>
